@@ -44,7 +44,7 @@
 ### Результаты:  
 В результате получается в среднем 7 попыток, при этом каждое конкретное угадывание может быть как за 1 попытку, так и за 20 попыток.
 Можно быстро проверить результат в Google Colab, вот ссылка на файл в формате Jupyter Notebook:
-
+https://github.com/VladimirLinevich/py/blob/master/smart_predict/game_v3.ipynb
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
