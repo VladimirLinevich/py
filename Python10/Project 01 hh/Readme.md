@@ -32,6 +32,14 @@ https://drive.google.com/file/d/1JZCMQpoo7yxBCpNCOafgbIn25va6hGJt/view?usp=shari
 ### Результаты:  
 В результате получены преобразованные и очищенные данные, пригодные для дальнейшего использования.
 
+Важно - некоторые графики, сделанные с помощью библиотеки Plotly находятся в папке visual (тут же на github):
+https://github.com/VladimirLinevich/py/blob/master/Python10/Project%2001%20hh/visual/04%20-%20median_salary_edu.html
+https://github.com/VladimirLinevich/py/blob/master/Python10/Project%2001%20hh/visual/05%20-%20median_salary_city.html
+https://github.com/VladimirLinevich/py/blob/master/Python10/Project%2001%20hh/visual/09%20-%20salary_gender.html
+https://github.com/VladimirLinevich/py/blob/master/Python10/Project%2001%20hh/visual/10%20-%20salary_expirience.html
+
+
+
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
 
